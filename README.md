@@ -1,6 +1,6 @@
 Online Payment Fraud Detection Using Machine Learning
 
-Author: Yesh Vardhan
+Author: Yeshvardhan Reddy
 
 Location: Benguluru,Karnataka,India.
 
